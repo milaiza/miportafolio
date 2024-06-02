@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-color:aliceblue;
+}
+
+header h3{
+    background-color: rgb(58, 202, 207);
+    color: brown;
+    padding:3rem 2rem ;
+    font-size: 4rem;
+    text-align: center;
+}
+header h1{
+    background-color: rgb(58,202,207);
+    color: brown;
+    padding:1rem 1rem ;
+    font-size: 2rem;
+}
+ header h2{
+    padding: 0.50rem;
+ }
+
+.conteiner {
+    width: 600px;
+    margin: 0 auto
+}
+
+ section footer {
+    background-color: #222;
+    padding: 3rem;
+    color:#fff;
+}
+
+footer section h4{
+    float:right;
+}
